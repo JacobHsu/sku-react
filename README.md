@@ -1,5 +1,17 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+
+[antd](https://www.npmjs.com/package/antd) Ant Design An enterprise-class UI design language and React UI library.
+yarn add redux react-redux @types/react-redux
+ 
+## References
+
+
+[前端sku算法（商品多规格选择）](https://juejin.im/post/5eef2fcee51d4574113a0203?utm_source=gold_browser_extension)
+xieyezi / [sku-algorithm](https://github.com/xieyezi/sku-algorithm)
+[图形算法（邻接矩阵）](https://juejin.im/post/5de7c053518825125d1497e2?utm_source=gold_browser_extension#heading-21)
+
+
 ## Available Scripts
 
 In the project directory, you can run:
